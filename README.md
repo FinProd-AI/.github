@@ -1,14 +1,14 @@
-# FinProd AI
+# FinProdAI
 
-Welcome to the official GitHub organization for **FinProd AI** - your partner in next-generation financial product development and AI-driven innovation.
+Welcome to the official GitHub organization for **FinProdAI** - your partner in next-generation financial product development and AI-driven innovation.
 
 ---
 
-## 🚀 About FinProd AI
+## 🚀 About FinProdAI
 
-At [FinProd AI](https://www.finprod.ai), we empower financial institutions, fintechs, and SMEs with cutting-edge AI tools and platforms. Our mission is to revolutionize SME and bank operations by automating financial services with advanced Gen-AI, driving efficiency, reducing costs, and enabling smarter, data-driven outcomes for sustainable growth..
+At [FinProdAI](https://www.finprod.ai), we empower financial institutions, fintechs, and SMEs with cutting-edge AI tools and platforms. Our mission is to revolutionize SME and bank operations by automating financial services with advanced Gen-AI, driving efficiency, reducing costs, and enabling smarter, data-driven outcomes for sustainable growth..
 
-Whether you’re looking for new digital banking solutions, automating compliance, optimize working capital, FinProd AI provides the technology and expertise to help you succeed.
+Whether you’re looking for new digital banking solutions, automating compliance, optimize working capital, FinProdAI provides the technology and expertise to help you succeed.
 
 ---
 
